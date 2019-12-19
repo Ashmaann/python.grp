@@ -1,2 +1,0 @@
-# pythongroupassignment.beds
-python code
